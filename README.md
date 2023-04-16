@@ -4,7 +4,8 @@
 
 ###
 
-<p align="left">My name is Harsh Agnihotri and I am a budding machine learning developer. I am currently pursuing a degree in Computer Science and Engineering, with a passion for the ever-evolving field of machine learning. I am excited to dive into the world of open-source development on GitHub and contribute to the community with my skills and knowledge. As a fresher in this field, I am eager to learn and grow as a developer while making meaningful contributions to the world of machine learning. Looking forward to making a positive impact with my code!</p>
+<p align="left">My name is Harsh Agnihotri and I am a budding machine learning developer. I am currently pursuing a degree in Computer Science and Engineering, with a passion for the ever-evolving field of machine learning. I am excited to dive into the world of open-source development on GitHub and contribute to the community with my skills and knowledge. As a fresher in this field, I am eager to learn and grow as a developer while making meaningful contributions to the world of machine learning. 
+Looking forward to making a positive impact with my code!</p>
 
 ###
 
