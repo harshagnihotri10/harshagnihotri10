@@ -33,6 +33,7 @@ Looking forward to making a positive impact with my code!!</p>
 
 ###
 
+<h3 align="left"><b>Github Statistics :</b></h3>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshagnihotri10&show_icons=true&locale=en&layout=compact" alt="harshagnihotri10" /></p>
