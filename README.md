@@ -19,7 +19,6 @@ I'm currently pursuing a degree in Computer Science and Engineering, and I'm dee
 - 📊 Data Analysis
 - 🌐 Cloud Computing
 - 🛠️ Amazon Web Services
-- 💻 C++
 
 ###
 
@@ -41,6 +40,12 @@ I'm currently pursuing a degree in Computer Science and Engineering, and I'm dee
 ## GitHub Stats
 
 ![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshagnihotri10&show_icons=true&theme=radical)
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagnihotri10&show_icons=true&theme=radical" alt="harshagnihotri10" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshagnihotri10&show_icons=true&locale=en&layout=compact" alt="harshagnihotri10" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshagnihotri10&show_icons=true&locale=en" alt="harshagnihotri10" /></p>
+
 
 <!-- Connect with Me Section -->
 ## Connect with Me
@@ -67,10 +72,6 @@ Let's connect and collaborate on exciting projects together!
 ###
 
 <h3 align="left"><b>Github Statistics :</b></h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagnihotri10&" alt="harshagnihotri10" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshagnihotri10&show_icons=true&locale=en&layout=compact" alt="harshagnihotri10" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshagnihotri10&show_icons=true&locale=en" alt="harshagnihotri10" /></p>
 
 ###
 
