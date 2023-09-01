@@ -39,9 +39,9 @@ I'm currently pursuing a degree in Computer Science and Engineering, and I'm dee
 <!-- GitHub Stats Section -->
 ## GitHub Stats
 
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshagnihotri10&show_icons=true&theme=radical)
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshagnihotri10&)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagnihotri10&show_icons=true&theme=radical" alt="harshagnihotri10" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagnihotri10&show_icons=true" alt="harshagnihotri10" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshagnihotri10&show_icons=true&locale=en&layout=compact" alt="harshagnihotri10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshagnihotri10&show_icons=true&locale=en" alt="harshagnihotri10" /></p>
@@ -51,7 +51,9 @@ I'm currently pursuing a degree in Computer Science and Engineering, and I'm dee
 ## Connect with Me
 
 Let's connect and collaborate on exciting projects together!
+###
 📫 harshagnihotri29@gmail.com
+###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
 
 <!-- Footer Section -->
@@ -68,15 +70,6 @@ Let's connect and collaborate on exciting projects together!
 
 <p align="left"></p>
 
-
 ###
 
-<h3 align="left"><b>Github Statistics :</b></h3>
-
-###
-
-
-
-
-###
 
