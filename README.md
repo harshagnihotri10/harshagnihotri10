@@ -21,33 +21,6 @@ I'm currently pursuing a degree in Computer Science and Engineering, and I'm dee
 - 🛠️ Amazon Web Services
 - 💻 C++
 
-<!-- GitHub Stats Section -->
-## GitHub Stats
-
-![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshagnihotri10&show_icons=true&theme=radical)
-
-<!-- Connect with Me Section -->
-## Connect with Me
-
-Let's connect and collaborate on exciting projects together!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-green?style=for-the-badge&logo=github)](https://github.com/harshagnihotri10)
-
-<!-- Footer Section -->
-<p align="center">
-  🌟 Looking forward to making a positive impact with my code! 🌟
-</p>
-
-
-###
-
-<h2 align="left"></h2>
-
-###
-
-<p align="left"></p>
-
 ###
 
 <h2 align="left">I code with</h2>
@@ -64,6 +37,33 @@ Let's connect and collaborate on exciting projects together!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
 
+<!-- GitHub Stats Section -->
+## GitHub Stats
+
+![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshagnihotri10&show_icons=true&theme=radical)
+
+<!-- Connect with Me Section -->
+## Connect with Me
+
+Let's connect and collaborate on exciting projects together!
+📫 harshagnihotri29@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
+
+<!-- Footer Section -->
+<p align="center">
+  🌟 Looking forward to making a positive impact with my code! 🌟
+</p>
+
+
+###
+
+<h2 align="left"></h2>
+
+###
+
+<p align="left"></p>
+
+
 ###
 
 <h3 align="left"><b>Github Statistics :</b></h3>
@@ -76,6 +76,6 @@ Let's connect and collaborate on exciting projects together!
 
 
 
-📫 How to reach me: harshagnihotri29@gmail.com
+
 ###
 
