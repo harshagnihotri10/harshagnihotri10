@@ -7,7 +7,7 @@
   💡 Passionate about Machine Learning 💡<br>
 </p>
 
-<!-- About Me Section -->
+
 ## About Me
 
 I'm currently pursuing a degree in Computer Science and Engineering, and I'm deeply passionate about the ever-evolving field of machine learning. As a fresher in this field, I'm eager to learn, grow, and make meaningful contributions to the world of machine learning.
