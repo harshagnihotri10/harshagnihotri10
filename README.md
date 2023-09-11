@@ -12,7 +12,7 @@
 
 I'm currently pursuing a degree in Computer Science and Engineering, and I'm deeply passionate about the ever-evolving field of machine learning. As a fresher in this field, I'm eager to learn, grow, and make meaningful contributions to the world of machine learning.
 
-<!-- Skills Section -->
+
 ## Skills
 
 - 🤖 Machine Learning
