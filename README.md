@@ -36,7 +36,7 @@ I'm currently pursuing a degree in Computer Science and Engineering, and I'm dee
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
 </div>
 
-<!-- GitHub Stats Section -->
+
 ## GitHub Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshagnihotri10&show_icons=true" alt="harshagnihotri10" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshagnihotri10&show_icons=true&locale=en&layout=compact" alt="harshagnihotri10" /></p>
