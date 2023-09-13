@@ -44,7 +44,6 @@ I'm currently pursuing a degree in Computer Science and Engineering, and I'm dee
 
 
 ###
-<!-- Connect with Me Section -->
 ## Connect with Me
 
 Let's connect and collaborate on exciting projects together!
