@@ -52,7 +52,6 @@ Let's connect and collaborate on exciting projects together!
 ###
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
 
-<!-- Footer Section -->
 <p align="center">
   🌟 Looking forward to making a positive impact with my code! 🌟
 </p>
