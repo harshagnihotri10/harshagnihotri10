@@ -4,7 +4,7 @@
 <p align="center">
   🚀 Budding Machine Learning Developer 🚀<br>
   🌱 Computer Science and Engineering Student 🌱<br>
-  💡 Passionate about Machine Learning 💡<br>
+  💡 Passionate about Machine Learning. 💡<br>
 </p>
 
 
