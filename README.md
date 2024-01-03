@@ -2,9 +2,9 @@
 <h1 align="center">👋 Hello, I'm Harsh Agnihotri</h1>
 
 <p align="center">
-  🚀 Budding Machine Learning Developer 🚀<br>
-  🌱 Computer Science and Engineering Student 🌱<br>
-  💡 Passionate about Machine Learning. 💡<br>
+  🚀 Computer Science and Engineering Student🚀<br>
+  🌱 Budding Machine Learning Developer 🌱<br>
+  💡 Passionate about Machine Learning 💡<br>
 </p>
 
 
