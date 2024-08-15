@@ -1,7 +1,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 <br><br>
 <h1 align="center">Hello <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">, I'm Harsh Agnihotri</h1>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 # 💫 About Me:
 🚀 Computer Science and Engineering Student🚀<br>🌱 Budding Machine Learning Developer 🌱<br>💡 Passionate about Machine Learning 💡
 
