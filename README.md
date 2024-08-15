@@ -40,7 +40,10 @@
   </ul>
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=harshagnihotri10&theme=dark&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=harshagnihotri10&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=harshagnihotri10&theme=dark&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=harshagnihotri10&theme=dark&hide_border=true&width=600&height=200)
+
+<!--https://github-readme-streak-stats.herokuapp.com/?user=harshagnihotri10&theme=dark&hide_border=true) -->
+
 
 <div id="user-content-toc">
   <ul  style="list-style: none;">
