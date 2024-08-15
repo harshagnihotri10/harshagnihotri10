@@ -40,7 +40,7 @@
   </ul>
 </div>
 
-![](https://github-readme-stats.vercel.app/api?username=harshagnihotri10&theme=transparent&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=harshagnihotri10&theme=radical&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=harshagnihotri10&theme=radical&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=harshagnihotri10&theme=radical&hide_border=true)
 
 
 <div id="user-content-toc">
