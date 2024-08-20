@@ -19,7 +19,10 @@
   </ul>
 </div>
 
-🚀 Computer Science and Engineering Student🚀<br>🌱 Budding Machine Learning Developer 🌱<br>💡 Passionate about Machine Learning 💡
+🚀 Computer Science and Engineering Student🚀<br>
+🛠️ Passionate about IoT, AI, and scalable microservices.<br>
+🌐 Experienced in Machine Learning, Full-Stack Development and Cloud Solutions with expertise in Linux Kernel Internals and Driver Development.<br>
+📜 Certified in AWS Cloud and AI Engineering, ready to tackle complex challenges with innovation and precision.
 
 <div id="user-content-toc">
   <ul  style="list-style: none;">
