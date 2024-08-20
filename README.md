@@ -19,10 +19,13 @@
   </ul>
 </div>
 
-🚀 Computer Science and Engineering Student🚀<br>
+🚀 Computer Science and Engineering Student.<br>
+📜 Certified in AWS Cloud and AI Engineering.<br>
 🛠️ Passionate about IoT, AI, and scalable microservices.<br>
-🌐 Experienced in Machine Learning, Full-Stack Development and Cloud Solutions with expertise in Linux Kernel Internals and Driver Development.<br>
-📜 Certified in AWS Cloud and AI Engineering, ready to tackle complex challenges with innovation and precision.
+🔧 Solid understanding of Linux Kernel Internals and Driver Development.<br>
+🌐 Experienced in Machine Learning, Full-Stack Development and Cloud Solutions.<br>
+
+
 
 <div id="user-content-toc">
   <ul  style="list-style: none;">
