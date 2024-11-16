@@ -26,6 +26,18 @@
 🌐 Experienced in Machine Learning, Full-Stack Development and Cloud Solutions.<br>
 
 
+<!--<div id="user-content-toc">-->
+<!--   <ul  style="list-style: none;"> -->
+<!--     <summary> -->
+<!-- <h2 align="left"><b>📈 Visitors count:</b></h2> -->
+<!-- <p align="center">  -->
+<!--   <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshagnihotri10&label=Profile%20views&color=0e75b6&style=flat" alt="harshagnihotri10" /> </p> -->
+<!-- </p> -->
+
+      
+</summary>
+  </ul>
+</div>
 
 <div id="user-content-toc">
   <ul  style="list-style: none;">
